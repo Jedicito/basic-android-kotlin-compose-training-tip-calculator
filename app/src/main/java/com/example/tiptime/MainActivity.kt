@@ -114,7 +114,7 @@ fun TipTimeLayout() {
                 .fillMaxWidth()
         )
         EditNumberField(
-            label = R.string.tip_amount,
+            label = R.string.how_was_the_service,
             leadingIcon = R.drawable.percent,
             keyboardOptions = KeyboardOptions.Default.copy(
                 keyboardType = KeyboardType.Number,
